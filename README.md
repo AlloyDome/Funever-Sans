@@ -9,4 +9,18 @@ See here: [preview](https://github.com/AlloyDome/Funever-Sans/tree/main/preview)
 OFL-1.1 license.
 
 ## Sample
-![Sample](https://raw.githubusercontent.com/AlloyDome/Funever-Sans/main/doc/preview2.png)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./doc/preview1dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./doc/preview1.png">
+    <img src="./doc/preview1.png">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./doc/preview2dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./doc/preview2.png">
+    <img src="./doc/preview2.png">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./doc/preview3dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./doc/preview3.png">
+    <img src="./doc/preview3.png">
+</picture>
