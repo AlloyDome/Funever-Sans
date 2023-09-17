@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi-grek" format="2">
+	<advance width="616"/>
+	<unicode hex="039E"/>
+	<outline>
+		<contour>
+			<point x="552" y="615" type="line"/>
+			<point x="552" y="700" type="line"/>
+			<point x="64" y="700" type="line"/>
+			<point x="64" y="615" type="line"/>
+		</contour>
+		<contour>
+			<point x="581" y="0" type="line"/>
+			<point x="581" y="85" type="line"/>
+			<point x="35" y="85" type="line"/>
+			<point x="35" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="537" y="314" type="line"/>
+			<point x="537" y="399" type="line"/>
+			<point x="79" y="399" type="line"/>
+			<point x="79" y="314" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

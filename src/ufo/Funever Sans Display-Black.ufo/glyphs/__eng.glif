@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__eng" format="2">
+	<advance width="701"/>
+	<outline>
+		<contour>
+			<point x="353" y="-239" type="line"/>
+			<point x="469" y="-237"/>
+			<point x="631" y="-137"/>
+			<point x="631" y="0" type="curve"/>
+			<point x="631" y="200" type="line"/>
+			<point x="431" y="200" type="line"/>
+			<point x="431" y="40" type="line"/>
+			<point x="431" y="-49"/>
+			<point x="382" y="-82"/>
+			<point x="306" y="-89" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

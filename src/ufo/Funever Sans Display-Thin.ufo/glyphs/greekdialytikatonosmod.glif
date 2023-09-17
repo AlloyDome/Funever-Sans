@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greekdialytikatonosmod" format="2">
+	<advance width="400"/>
+	<unicode hex="0385"/>
+	<outline>
+		<component base="dotaccentcomb"/>
+		<component base="dotaccentcomb" xOffset="240"/>
+		<component base="tonosmod-grek" xOffset="132" yOffset="43"/>
+	</outline>
+</glyph>

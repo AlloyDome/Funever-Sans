@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+	<advance width="1190"/>
+	<unicode hex="2122"/>
+	<outline>
+		<component base="te-cyrl" yOffset="300"/>
+		<component base="em-cyrl" xOffset="480" yOffset="300"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>te-cyrl</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>em-cyrl</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

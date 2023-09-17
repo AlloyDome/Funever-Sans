@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessthanorequalto" format="2">
+	<advance width="470"/>
+	<unicode hex="2264"/>
+	<outline>
+		<component base="less" yOffset="45"/>
+		<component base="minus" yOffset="-225"/>
+	</outline>
+</glyph>

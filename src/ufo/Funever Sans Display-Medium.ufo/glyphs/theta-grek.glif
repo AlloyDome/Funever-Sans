@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theta-grek" format="2">
+	<advance width="576"/>
+	<unicode hex="03B8"/>
+	<outline>
+		<contour>
+			<point x="288" y="-10" type="curve"/>
+			<point x="436" y="-10"/>
+			<point x="541" y="173"/>
+			<point x="541" y="401" type="curve"/>
+			<point x="541" y="568"/>
+			<point x="441" y="730"/>
+			<point x="288" y="730" type="curve"/>
+			<point x="140" y="730"/>
+			<point x="35" y="547"/>
+			<point x="35" y="319" type="curve"/>
+			<point x="35" y="152"/>
+			<point x="135" y="-10"/>
+		</contour>
+		<contour>
+			<point x="288" y="75" type="curve"/>
+			<point x="201" y="75"/>
+			<point x="145" y="200"/>
+			<point x="145" y="328" type="curve"/>
+			<point x="145" y="504"/>
+			<point x="204" y="645"/>
+			<point x="288" y="645" type="curve"/>
+			<point x="375" y="645"/>
+			<point x="431" y="520"/>
+			<point x="431" y="392" type="curve"/>
+			<point x="431" y="216"/>
+			<point x="372" y="75"/>
+		</contour>
+		<contour>
+			<point x="495" y="408" type="line"/>
+			<point x="85" y="408" type="line"/>
+			<point x="85" y="323" type="line"/>
+			<point x="495" y="323" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degreefahrenheit" format="2">
+	<advance width="662"/>
+	<unicode hex="2109"/>
+	<outline>
+		<component base="degree"/>
+		<component base="F" xOffset="270"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

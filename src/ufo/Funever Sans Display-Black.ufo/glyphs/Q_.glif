@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+	<advance width="770"/>
+	<unicode hex="0051"/>
+	<outline>
+		<contour>
+			<point x="385" y="-10" type="curve"/>
+			<point x="590" y="-10"/>
+			<point x="735" y="168"/>
+			<point x="735" y="390" type="curve"/>
+			<point x="735" y="552"/>
+			<point x="597" y="710"/>
+			<point x="385" y="710" type="curve"/>
+			<point x="180" y="710"/>
+			<point x="35" y="532"/>
+			<point x="35" y="310" type="curve"/>
+			<point x="35" y="148"/>
+			<point x="173" y="-10"/>
+		</contour>
+		<contour>
+			<point x="385" y="140" type="curve"/>
+			<point x="294" y="140"/>
+			<point x="235" y="232"/>
+			<point x="235" y="327" type="curve"/>
+			<point x="235" y="456"/>
+			<point x="297" y="560"/>
+			<point x="385" y="560" type="curve"/>
+			<point x="476" y="560"/>
+			<point x="535" y="468"/>
+			<point x="535" y="373" type="curve"/>
+			<point x="535" y="244"/>
+			<point x="473" y="140"/>
+		</contour>
+		<contour>
+			<point x="429" y="71" type="line"/>
+			<point x="363" y="-8" type="line"/>
+			<point x="689" y="-115" type="line"/>
+			<point x="735" y="27" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

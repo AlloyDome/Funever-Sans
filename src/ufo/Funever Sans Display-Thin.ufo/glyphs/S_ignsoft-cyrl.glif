@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Signsoft-cyrl" format="2">
+	<advance width="448"/>
+	<unicode hex="042C"/>
+	<outline>
+		<contour>
+			<point x="70" y="-10" type="line"/>
+			<point x="269" y="-10"/>
+			<point x="413" y="116"/>
+			<point x="413" y="274" type="curve"/>
+			<point x="413" y="430"/>
+			<point x="255" y="468"/>
+			<point x="70" y="468" type="curve"/>
+			<point x="70" y="448" type="line"/>
+			<point x="246" y="448"/>
+			<point x="393" y="414"/>
+			<point x="394" y="274" type="curve"/>
+			<point x="394" y="122"/>
+			<point x="250" y="10"/>
+			<point x="70" y="10" type="curve"/>
+		</contour>
+		<contour>
+			<point x="90" y="0" type="line"/>
+			<point x="90" y="700" type="line"/>
+			<point x="70" y="700" type="line"/>
+			<point x="70" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

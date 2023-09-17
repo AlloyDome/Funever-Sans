@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__Dtopbar" format="2">
+	<advance width="559"/>
+	<outline>
+		<contour>
+			<point x="489" y="700" type="line"/>
+			<point x="379" y="700" type="line"/>
+			<point x="379" y="5" type="line"/>
+			<point x="489" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="488" y="412" type="line"/>
+			<point x="170" y="412"/>
+			<point x="35" y="280"/>
+			<point x="35" y="158" type="curve"/>
+			<point x="35" y="36"/>
+			<point x="185" y="-10"/>
+			<point x="488" y="-10" type="curve"/>
+			<point x="488" y="75" type="line"/>
+			<point x="244" y="75"/>
+			<point x="146" y="99"/>
+			<point x="146" y="173" type="curve"/>
+			<point x="146" y="247"/>
+			<point x="225" y="327"/>
+			<point x="488" y="327" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

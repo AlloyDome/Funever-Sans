@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeinferior" format="2">
+	<advance width="329"/>
+	<unicode hex="2083"/>
+	<outline>
+		<contour>
+			<point x="177" y="97" type="line"/>
+			<point x="227" y="120"/>
+			<point x="267" y="158"/>
+			<point x="267" y="215" type="curve"/>
+			<point x="267" y="273"/>
+			<point x="163" y="310"/>
+			<point x="49" y="310" type="curve"/>
+			<point x="49" y="242" type="line"/>
+			<point x="147" y="242"/>
+			<point x="179" y="217"/>
+			<point x="179" y="184" type="curve"/>
+			<point x="179" y="151"/>
+			<point x="167" y="130"/>
+			<point x="102" y="111" type="curve"/>
+			<point x="102" y="110" type="line"/>
+			<point x="159" y="94"/>
+			<point x="192" y="74"/>
+			<point x="192" y="23" type="curve"/>
+			<point x="192" y="-18"/>
+			<point x="137" y="-42"/>
+			<point x="34" y="-42" type="curve"/>
+			<point x="34" y="-110" type="line"/>
+			<point x="169" y="-110"/>
+			<point x="280" y="-74"/>
+			<point x="280" y="14" type="curve"/>
+			<point x="280" y="83"/>
+			<point x="215" y="114"/>
+			<point x="177" y="124" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

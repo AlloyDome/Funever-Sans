@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi-grek" format="2">
+	<advance width="583"/>
+	<unicode hex="03C7"/>
+	<outline>
+		<contour>
+			<point x="533" y="456" type="line"/>
+			<point x="446" y="506" type="line"/>
+			<point x="35" y="-187" type="line"/>
+			<point x="123" y="-236" type="line"/>
+		</contour>
+		<contour>
+			<point x="45" y="456" type="line"/>
+			<point x="456" y="-236" type="line"/>
+			<point x="543" y="-187" type="line"/>
+			<point x="133" y="506" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

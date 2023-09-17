@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yu-cyrl" format="2">
+	<advance width="862"/>
+	<unicode hex="044E"/>
+	<outline>
+		<contour>
+			<point x="567" y="-10" type="curve"/>
+			<point x="719" y="-10"/>
+			<point x="827" y="119"/>
+			<point x="827" y="279" type="curve"/>
+			<point x="827" y="396"/>
+			<point x="725" y="510"/>
+			<point x="567" y="510" type="curve"/>
+			<point x="415" y="510"/>
+			<point x="307" y="381"/>
+			<point x="307" y="221" type="curve"/>
+			<point x="307" y="104"/>
+			<point x="410" y="-10"/>
+		</contour>
+		<contour>
+			<point x="567" y="140" type="curve"/>
+			<point x="531" y="140"/>
+			<point x="507" y="188"/>
+			<point x="507" y="238" type="curve"/>
+			<point x="507" y="306"/>
+			<point x="532" y="360"/>
+			<point x="567" y="360" type="curve"/>
+			<point x="603" y="360"/>
+			<point x="627" y="312"/>
+			<point x="627" y="262" type="curve"/>
+			<point x="627" y="194"/>
+			<point x="602" y="140"/>
+		</contour>
+		<contour>
+			<point x="270" y="336" type="line"/>
+			<point x="270" y="500" type="line"/>
+			<point x="70" y="500" type="line"/>
+			<point x="70" y="0" type="line"/>
+			<point x="270" y="0" type="line"/>
+			<point x="270" y="186" type="line"/>
+			<point x="388" y="186" type="line"/>
+			<point x="388" y="336" type="line"/>
+		</contour>
+	</outline>
+</glyph>

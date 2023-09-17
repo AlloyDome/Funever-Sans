@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="2">
+	<advance width="520"/>
+	<unicode hex="2020"/>
+	<outline>
+		<component base="bar" xOffset="90" yOffset="1"/>
+		<component base="underscore" yOffset="585"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

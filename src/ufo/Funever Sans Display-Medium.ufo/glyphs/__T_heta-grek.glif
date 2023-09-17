@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__Theta-grek" format="2">
+	<advance width="770"/>
+	<outline>
+		<contour>
+			<point x="515" y="393" type="line"/>
+			<point x="255" y="393" type="line"/>
+			<point x="255" y="308" type="line"/>
+			<point x="515" y="308" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

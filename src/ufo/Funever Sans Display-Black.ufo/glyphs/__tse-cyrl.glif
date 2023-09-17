@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__tse-cyrl" format="2">
+	<advance width="773"/>
+	<outline>
+		<contour>
+			<point x="582" y="0" type="line"/>
+			<point x="582" y="500" type="line"/>
+			<point x="382" y="500" type="line"/>
+			<point x="382" y="150" type="line"/>
+			<point x="270" y="150" type="line"/>
+			<point x="270" y="500" type="line"/>
+			<point x="70" y="500" type="line"/>
+			<point x="70" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

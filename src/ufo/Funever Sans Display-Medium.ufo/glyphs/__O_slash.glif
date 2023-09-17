@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__Oslash" format="2">
+	<advance width="770"/>
+	<outline>
+		<contour>
+			<point x="109" y="-27" type="line"/>
+			<point x="703" y="696" type="line"/>
+			<point x="662" y="727" type="line"/>
+			<point x="66" y="5" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

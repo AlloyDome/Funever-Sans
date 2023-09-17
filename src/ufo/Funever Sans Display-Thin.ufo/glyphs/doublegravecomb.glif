@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublegravecomb" format="2">
+	<advance width="0"/>
+	<unicode hex="030F"/>
+	<outline>
+		<contour>
+			<point x="187" y="613" type="line"/>
+			<point x="66" y="772" type="line"/>
+			<point x="36" y="746" type="line"/>
+			<point x="171" y="600" type="line"/>
+		</contour>
+		<contour>
+			<point x="307" y="613" type="line"/>
+			<point x="186" y="772" type="line"/>
+			<point x="156" y="746" type="line"/>
+			<point x="291" y="600" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

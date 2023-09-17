@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalsigma-grek" format="2">
+	<advance width="448"/>
+	<unicode hex="03C2"/>
+	<outline>
+		<contour>
+			<point x="398" y="510" type="line"/>
+			<point x="171" y="510"/>
+			<point x="35" y="344"/>
+			<point x="35" y="172" type="curve"/>
+			<point x="35" y="53"/>
+			<point x="157" y="-10"/>
+			<point x="334" y="-10" type="curve"/>
+			<point x="334" y="10" type="line"/>
+			<point x="171" y="10"/>
+			<point x="55" y="63"/>
+			<point x="55" y="172" type="curve"/>
+			<point x="55" y="333"/>
+			<point x="183" y="490"/>
+			<point x="398" y="490" type="curve"/>
+		</contour>
+		<contour>
+			<point x="358" y="-193" type="line"/>
+			<point x="413" y="18" type="line"/>
+			<point x="395" y="14"/>
+			<point x="355" y="10"/>
+			<point x="334" y="10" type="curve"/>
+			<point x="334" y="-10" type="line"/>
+			<point x="352" y="-10"/>
+			<point x="382" y="-8"/>
+			<point x="394" y="-5" type="curve"/>
+			<point x="390" y="5" type="line"/>
+			<point x="339" y="-188" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

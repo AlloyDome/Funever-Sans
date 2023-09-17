@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappasymbol-grek" format="2">
+	<advance width="669"/>
+	<unicode hex="03F0"/>
+	<outline>
+		<contour>
+			<point x="44" y="510" type="curve"/>
+			<point x="35" y="491" type="line"/>
+			<point x="99" y="466"/>
+			<point x="152" y="408"/>
+			<point x="152" y="287" type="curve"/>
+			<point x="172" y="287" type="line"/>
+			<point x="172" y="425"/>
+			<point x="114" y="481"/>
+		</contour>
+		<contour>
+			<point x="625" y="-10" type="curve"/>
+			<point x="634" y="9" type="line"/>
+			<point x="570" y="34"/>
+			<point x="517" y="92"/>
+			<point x="517" y="213" type="curve"/>
+			<point x="497" y="213" type="line"/>
+			<point x="497" y="75"/>
+			<point x="555" y="19"/>
+		</contour>
+		<contour>
+			<point x="497" y="453" type="line"/>
+			<point x="497" y="213" type="line"/>
+			<point x="517" y="213" type="line"/>
+			<point x="517" y="514" type="line"/>
+			<point x="516" y="514" type="line"/>
+			<point x="172" y="44" type="line"/>
+			<point x="172" y="287" type="line"/>
+			<point x="152" y="287" type="line"/>
+			<point x="152" y="-14" type="line"/>
+			<point x="153" y="-14" type="line"/>
+		</contour>
+	</outline>
+</glyph>

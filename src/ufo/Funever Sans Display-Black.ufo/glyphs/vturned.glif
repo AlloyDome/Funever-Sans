@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vturned" format="2">
+	<advance width="698"/>
+	<unicode hex="028C"/>
+	<outline>
+		<component base="v" yScale="-1" yOffset="500"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

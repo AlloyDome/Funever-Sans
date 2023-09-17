@@ -1,0 +1,266 @@
+@BASE = [ naryproduct A-cyrl Ve-cyrl De-cyrl Ishort-cyrl Ka-cyrl Em-cyrl O-cyrl Pe-cyrl Er-cyrl Es-cyrl Te-cyrl Ha-cyrl Yeru-cyrl a-cyrl de-cyrl ie-cyrl i-cyrl ishort-cyrl el-cyrl pe-cyrl er-cyrl es-cyrl te-cyrl u-cyrl ha-cyrl yeru-cyrl ya-cyrl bsmallcapital csmallcapital hsmallcapital ksmallcapital msmallcapital osmallcapital qsmallcapital ssmallcapital tsmallcapital vsmallcapital wsmallcapital zsmallcapital Alpha-grek Beta-grek Gamma-grek Delta-grek Zeta-grek Iota-grek Kappa-grek Lamda-grek Mu-grek Nu-grek Omicron-grek Pi-grek Rho-grek Tau-grek Upsilon-grek Phi-grek Chi-grek Amacron Abreve Aogonek cacute ccircumflex cdotaccent ccaron Dcaron dcaron Dcroat Emacron emacron Ebreve ebreve Edotaccent edotaccent Eogonek eogonek Ecaron ecaron Gcircumflex gcircumflex Gbreve gbreve Gdotaccent gdotaccent Gcedilla gcedilla Hcircumflex hcircumflex Itilde itilde Imacron imacron Ibreve ibreve Iogonek iogonek Idotaccent IJ ij Jcircumflex jcircumflex Kcedilla kcedilla kra Lacute lacute Lcedilla lcedilla Lcaron lcaron Lmiddledot lmiddledot lslash Nacute nacute Ncedilla ncedilla Ncaron ncaron napostrophe Eng eng Omacron omacron Obreve obreve Odoubleacute odoubleacute OE oe Racute racute Rcedilla rcedilla Rcaron rcaron Tcedilla tcedilla Tcaron tcaron Tbar tbar Utilde utilde Umacron umacron Ubreve ubreve Uring uring Udoubleacute udoubleacute Uogonek uogonek Wcircumflex wcircumflex Ycircumflex Ydieresis Zacute zacute Zdotaccent zdotaccent Zcaron zcaron Btopbar Dafrican dtopbar deltaturned Ereversed Fhook fhook Iota Ibar lbar Nlefthook Twotone twotone Esh Uhorn uhorn Upsilon Zbar zbar twobar DZcaron Dzcaron dzcaron LJ Lj lj NJ Nj nj Udieresismacron udieresismacron Udieresisacute udieresisacute Udieresiscaron udieresiscaron Udieresisgrave udieresisgrave eturned adieresismacron DZ Dz dz Vturned aturned alphaturned oopen ereversed schwa ereversedopen gscript phi rinvertedsmallcapital esh vturned wturned dzdigraph tsdigraph teshdigraph fengdigraph lzdigraph iota-grek kappa-grek mu-grek nu-grek omicron-grek pi-grek tau-grek upsilon-grek phisymbol-grek lunateepsilonsymbol-grek degreecelsius degreefahrenheit fiveinferior sixinferior eightinferior nineinferior fivesuperior sixsuperior eightsuperior ninesuperior Ohmsign-grek oneninth onefifth twofifths threefifths fourfifths onesixth fivesixths oneeighth threeeighths fiveeighths seveneighths Gje-cyrl gje-cyrl Gheupturn-cyrl gheupturn-cyrl Dje-cyrl dje-cyrl Ieukrainian-cyrl ieukrainian-cyrl Iegrave-cyrl iegrave-cyrl Igrave-cyrl igrave-cyrl Ibyelorussianukrainian-cyrl ibyelorussianukrainian-cyrl Yi-cyrl yi-cyrl Je-cyrl je-cyrl Lje-cyrl lje-cyrl Nje-cyrl nje-cyrl Tshe-cyrl tshe-cyrl Kje-cyrl kje-cyrl Ushort-cyrl ushort-cyrl Dzhe-cyrl dzhe-cyrl cuberoot fourthroot telephonesign Adotbelow Ahookabove Acircumflexacute Acircumflexgrave Acircumflexhookabove Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehookabove Abrevetilde Abrevedotbelow Edotbelow Ehookabove Etilde etilde Ecircumflexacute Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Ecircumflexdotbelow Idotbelow idotbelow Odotbelow Ohookabove ohookabove Ocircumflexacute Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Ocircumflexdotbelow Ohornhookabove ohornhookabove Ohorndotbelow Udotbelow Uhorntilde uhorntilde Uhorndotbelow Ydotbelow Ytilde tonosmod-grek greekdialytikatonosmod Alphatonos-grek Epsilontonos-grek Etatonos-grek Iotatonos-grek Omicrontonos-grek Upsilontonos-grek Omegatonos-grek Upsilondialytika-grek alphatonos-grek epsilontonos-grek etatonos-grek
+ ];
+
+@MARK = [ strokelongcomb ];
+
+# Prefix: Prefix
+###
+# OpenType Layout feature definitions
+#
+# Font name: Funever Sans Display
+# Font copyright: Copyright © AlloyDome. 2023. All Rights Reserved
+#
+# Totals:
+# Languagesystems: 0
+# GSUB lookups: 0
+# GSUB features: 0
+# GPOS lookups: 0
+# GPOS features: 0
+
+#
+# Languagesystem definitions
+#
+
+#
+# Global glyph class definitions
+#
+
+#
+# Feature definitions
+#
+
+table GDEF {
+    GlyphClassDef @BASE,, @MARK,;
+} GDEF;
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+
+feature aalt {
+# automatic
+feature subs;
+feature sinf;
+feature sups;
+feature frac;
+feature ordn;
+feature onum;
+feature case;
+feature lnum;
+feature pnum;
+feature tnum;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb strokelongcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
+
+lookup ccmp_latn_1 {
+	sub fi by f i;
+	sub fl by f l;
+	sub lj by l j;
+	sub Lj by L j;
+	sub LJ by L J;
+	sub nj by n j;
+	sub Nj by N j;
+	sub NJ by N J;
+	sub dzcaron by d zcaron;
+	sub Dzcaron by D zcaron;
+	sub DZcaron by D Zcaron;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+} ccmp;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+} subs;
+
+feature sinf {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+} sinf;
+
+feature sups {
+# automatic
+sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash eight by oneeighth;
+sub one slash four by onequarter;
+sub three slash eight by threeeighths;
+sub one slash two by onehalf;
+sub five slash eight by fiveeighths;
+sub three slash four by threequarters;
+sub seven slash eight by seveneighths;
+sub one slash three by onethird;
+sub two slash three by twothirds;
+sub one slash five by onefifth;
+sub two slash five by twofifths;
+sub three slash five by threefifths;
+sub four slash five by fourfifths;
+sub one slash six by onesixth;
+sub five slash six by fivesixths;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature lnum {
+# automatic
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+} lnum;
+
+feature pnum {
+# automatic
+sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+sub zero.tosf by zero.osf;
+sub one.tosf by one.osf;
+sub two.tosf by two.osf;
+sub three.tosf by three.osf;
+sub four.tosf by four.osf;
+sub five.tosf by five.osf;
+sub six.tosf by six.osf;
+sub seven.tosf by seven.osf;
+sub eight.tosf by eight.osf;
+sub nine.tosf by nine.osf;
+} pnum;
+
+feature tnum {
+# automatic
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+sub zero.osf by zero.tosf;
+sub one.osf by one.tosf;
+sub two.osf by two.tosf;
+sub three.osf by three.tosf;
+sub four.osf by four.tosf;
+sub five.osf by five.tosf;
+sub six.osf by six.tosf;
+sub seven.osf by seven.tosf;
+sub eight.osf by eight.tosf;
+sub nine.osf by nine.tosf;
+} tnum;
+
+feature onum {
+# automatic
+sub zero.tf by zero.tosf;
+sub one.tf by one.tosf;
+sub two.tf by two.tosf;
+sub three.tf by three.tosf;
+sub four.tf by four.tosf;
+sub five.tf by five.tosf;
+sub six.tf by six.tosf;
+sub seven.tf by seven.tosf;
+sub eight.tf by eight.tosf;
+sub nine.tf by nine.tosf;
+sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+} onum;
+
+feature case {
+# automatic
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+sub zero.tosf by zero.lf;
+sub one.tosf by one.lf;
+sub two.tosf by two.lf;
+sub three.tosf by three.lf;
+sub four.tosf by four.lf;
+sub five.tosf by five.lf;
+sub six.tosf by six.lf;
+sub seven.tosf by seven.lf;
+sub eight.tosf by eight.lf;
+sub nine.tosf by nine.lf;
+} case;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
+} liga;
+

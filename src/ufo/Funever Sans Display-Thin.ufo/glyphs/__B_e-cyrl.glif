@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__Be-cyrl" format="2">
+	<advance width="464"/>
+	<outline>
+		<contour>
+			<point x="70" y="700" type="line"/>
+			<point x="70" y="0" type="line"/>
+			<point x="90" y="0" type="line"/>
+			<point x="90" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="71" y="-10" type="line"/>
+			<point x="294" y="-10"/>
+			<point x="429" y="92"/>
+			<point x="429" y="214" type="curve"/>
+			<point x="429" y="336"/>
+			<point x="279" y="367"/>
+			<point x="71" y="367" type="curve"/>
+			<point x="71" y="347" type="line"/>
+			<point x="270" y="347"/>
+			<point x="408" y="318"/>
+			<point x="408" y="214" type="curve"/>
+			<point x="408" y="106"/>
+			<point x="279" y="10"/>
+			<point x="71" y="10" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

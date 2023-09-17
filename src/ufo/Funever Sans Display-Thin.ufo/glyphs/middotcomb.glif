@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="middotcomb" format="2">
+	<advance width="0"/>
+	<outline>
+		<contour>
+			<point x="80" y="215" type="curve"/>
+			<point x="101" y="215"/>
+			<point x="115" y="232"/>
+			<point x="115" y="254" type="curve"/>
+			<point x="115" y="270"/>
+			<point x="101" y="285"/>
+			<point x="80" y="285" type="curve"/>
+			<point x="60" y="285"/>
+			<point x="45" y="268"/>
+			<point x="45" y="246" type="curve"/>
+			<point x="45" y="230"/>
+			<point x="59" y="215"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookcomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0309"/>
+	<outline>
+		<contour>
+			<point x="90" y="579" type="line"/>
+			<point x="140" y="579" type="line"/>
+			<point x="140" y="606" type="line"/>
+			<point x="114" y="593" type="line"/>
+			<point x="171" y="593"/>
+			<point x="252" y="619"/>
+			<point x="252" y="681" type="curve"/>
+			<point x="252" y="745"/>
+			<point x="132" y="792"/>
+			<point x="37" y="796" type="curve"/>
+			<point x="35" y="740" type="line"/>
+			<point x="119" y="737"/>
+			<point x="177" y="703"/>
+			<point x="177" y="678" type="curve"/>
+			<point x="177" y="649"/>
+			<point x="145" y="634"/>
+			<point x="90" y="634" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

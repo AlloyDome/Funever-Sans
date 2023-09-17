@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ksmallcapital" format="2">
+	<advance width="652"/>
+	<unicode hex="1D0B"/>
+	<outline>
+		<component base="ka-cyrl"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

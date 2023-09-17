@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourfifths" format="2">
+	<advance width="1000"/>
+	<unicode hex="2158"/>
+	<outline>
+		<component base="foursuperior" xOffset="30" yOffset="-100"/>
+		<component base="fraction" xOffset="235"/>
+		<component base="fiveinferior" xOffset="630" yOffset="100"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>foursuperior</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadialytika-grek" format="2">
+	<advance width="340"/>
+	<unicode hex="03CA"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="dieresiscomb" xOffset="-70"/>
+	</outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__Udieresisacute" format="2">
+	<advance width="820"/>
+	<outline>
+		<component base="U"/>
+		<component base="dotaccentcomb" xOffset="65" yOffset="170"/>
+		<component base="dotaccentcomb" xOffset="515" yOffset="170"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

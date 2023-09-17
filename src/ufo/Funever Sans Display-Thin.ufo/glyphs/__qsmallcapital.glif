@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__qsmallcapital" format="2">
+	<advance width="576"/>
+	<outline>
+		<contour>
+			<point x="279" y="8" type="line"/>
+			<point x="262" y="-7" type="line"/>
+			<point x="523" y="-91" type="line"/>
+			<point x="529" y="-72" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

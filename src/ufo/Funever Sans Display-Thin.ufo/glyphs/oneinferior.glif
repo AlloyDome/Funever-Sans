@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneinferior" format="2">
+	<advance width="315"/>
+	<unicode hex="2081"/>
+	<outline>
+		<contour>
+			<point x="204" y="-100" type="line"/>
+			<point x="204" y="310" type="line"/>
+			<point x="203" y="310" type="line"/>
+			<point x="68" y="182" type="line"/>
+			<point x="83" y="169" type="line"/>
+			<point x="200" y="279" type="line"/>
+			<point x="184" y="277" type="line"/>
+			<point x="184" y="-100" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

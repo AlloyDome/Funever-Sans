@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__f" format="2">
+	<advance width="340"/>
+	<outline>
+		<contour>
+			<point x="281" y="500" type="line"/>
+			<point x="35" y="500" type="line"/>
+			<point x="35" y="480" type="line"/>
+			<point x="281" y="480" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

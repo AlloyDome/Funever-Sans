@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__Udieresismacron" format="2">
+	<advance width="0"/>
+	<outline>
+		<component base="dieresiscomb" xOffset="13" yOffset="150"/>
+		<component base="macroncomb" xOffset="-1" yOffset="300"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psi-grek" format="2">
+	<advance width="940"/>
+	<unicode hex="03C8"/>
+	<outline>
+		<contour>
+			<point x="570" y="-230" type="line"/>
+			<point x="570" y="600" type="line"/>
+			<point x="370" y="600" type="line"/>
+			<point x="370" y="-230" type="line"/>
+		</contour>
+		<contour>
+			<point x="518" y="-10" type="line"/>
+			<point x="736" y="-10"/>
+			<point x="870" y="103"/>
+			<point x="870" y="313" type="curve"/>
+			<point x="870" y="500" type="line"/>
+			<point x="670" y="500" type="line"/>
+			<point x="670" y="313" type="line"/>
+			<point x="670" y="211"/>
+			<point x="598" y="140"/>
+			<point x="518" y="140" type="curve"/>
+		</contour>
+		<contour>
+			<point x="70" y="313" type="line"/>
+			<point x="70" y="122"/>
+			<point x="202" y="-10"/>
+			<point x="398" y="-10" type="curve"/>
+			<point x="398" y="140" type="line"/>
+			<point x="340" y="140"/>
+			<point x="270" y="201"/>
+			<point x="270" y="313" type="curve"/>
+			<point x="270" y="500" type="line"/>
+			<point x="70" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

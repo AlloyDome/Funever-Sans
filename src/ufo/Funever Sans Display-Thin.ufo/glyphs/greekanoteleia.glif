@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greekanoteleia" format="2">
+	<advance width="160"/>
+	<unicode hex="0387"/>
+	<outline>
+		<contour>
+			<point x="80" y="315" type="curve"/>
+			<point x="101" y="315"/>
+			<point x="115" y="332"/>
+			<point x="115" y="354" type="curve"/>
+			<point x="115" y="370"/>
+			<point x="101" y="385"/>
+			<point x="80" y="385" type="curve"/>
+			<point x="60" y="385"/>
+			<point x="45" y="368"/>
+			<point x="45" y="346" type="curve"/>
+			<point x="45" y="330"/>
+			<point x="59" y="315"/>
+		</contour>
+	</outline>
+</glyph>

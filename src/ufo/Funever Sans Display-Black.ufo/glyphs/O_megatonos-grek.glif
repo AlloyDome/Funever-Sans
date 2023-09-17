@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatonos-grek" format="2">
+	<advance width="1080"/>
+	<unicode hex="038F"/>
+	<outline>
+		<component base="Omega-grek" xOffset="140"/>
+		<component base="tonosmod-grek" yOffset="-106"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Omega-grek</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tonosmod-grek</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

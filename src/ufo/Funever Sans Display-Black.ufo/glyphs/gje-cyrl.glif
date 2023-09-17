@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gje-cyrl" format="2">
+	<advance width="474"/>
+	<unicode hex="0453"/>
+	<outline>
+		<component base="ghe-cyrl"/>
+		<component base="acutecomb" xOffset="126"/>
+	</outline>
+</glyph>

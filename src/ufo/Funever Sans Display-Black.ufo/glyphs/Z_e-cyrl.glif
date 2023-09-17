@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ze-cyrl" format="2">
+	<advance width="528"/>
+	<unicode hex="0417"/>
+	<outline>
+		<contour>
+			<point x="85" y="300" type="line"/>
+			<point x="324" y="300"/>
+			<point x="458" y="436"/>
+			<point x="458" y="557" type="curve"/>
+			<point x="458" y="678"/>
+			<point x="320" y="710"/>
+			<point x="55" y="710" type="curve"/>
+			<point x="55" y="560" type="line"/>
+			<point x="207" y="560"/>
+			<point x="258" y="542"/>
+			<point x="259" y="507" type="curve"/>
+			<point x="259" y="478"/>
+			<point x="227" y="417"/>
+			<point x="85" y="417" type="curve"/>
+		</contour>
+		<contour>
+			<point x="35" y="-10" type="line"/>
+			<point x="359" y="-10"/>
+			<point x="493" y="92"/>
+			<point x="493" y="214" type="curve"/>
+			<point x="493" y="336"/>
+			<point x="344" y="417"/>
+			<point x="85" y="417" type="curve"/>
+			<point x="85" y="297" type="line"/>
+			<point x="275" y="297"/>
+			<point x="293" y="258"/>
+			<point x="293" y="224" type="curve"/>
+			<point x="293" y="190"/>
+			<point x="244" y="140"/>
+			<point x="35" y="140" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

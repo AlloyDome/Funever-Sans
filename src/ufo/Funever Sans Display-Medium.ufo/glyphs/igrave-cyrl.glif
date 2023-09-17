@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave-cyrl" format="2">
+	<advance width="605"/>
+	<unicode hex="045D"/>
+	<outline>
+		<component base="i-cyrl"/>
+		<component base="gravecomb" xOffset="108"/>
+	</outline>
+</glyph>

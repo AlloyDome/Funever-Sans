@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i-cyrl" format="2">
+	<advance width="565"/>
+	<unicode hex="0438"/>
+	<outline>
+		<component base="nsmallcapital" xScale="-1" xOffset="565"/>
+	</outline>
+</glyph>

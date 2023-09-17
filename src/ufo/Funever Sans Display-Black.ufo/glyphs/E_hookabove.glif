@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ehookabove" format="2">
+	<advance width="571"/>
+	<unicode hex="1EBA"/>
+	<outline>
+		<component base="E"/>
+		<component base="hookcomb" xOffset="139" yOffset="200"/>
+	</outline>
+</glyph>

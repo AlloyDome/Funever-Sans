@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega-grek" format="2">
+	<advance width="940"/>
+	<unicode hex="03A9"/>
+	<outline>
+		<contour>
+			<point x="670" y="0" type="line"/>
+			<point x="810" y="127"/>
+			<point x="850" y="236"/>
+			<point x="850" y="410" type="curve"/>
+			<point x="850" y="542"/>
+			<point x="723" y="710"/>
+			<point x="470" y="710" type="curve"/>
+			<point x="239" y="710"/>
+			<point x="90" y="559"/>
+			<point x="90" y="350" type="curve"/>
+			<point x="90" y="248"/>
+			<point x="151" y="130"/>
+			<point x="292" y="0" type="curve"/>
+			<point x="282" y="141" type="line"/>
+			<point x="35" y="140" type="line"/>
+			<point x="35" y="0" type="line"/>
+			<point x="429" y="0" type="line"/>
+			<point x="328" y="93"/>
+			<point x="290" y="212"/>
+			<point x="290" y="307" type="curve"/>
+			<point x="290" y="432"/>
+			<point x="348" y="560"/>
+			<point x="470" y="560" type="curve"/>
+			<point x="591" y="560"/>
+			<point x="650" y="449"/>
+			<point x="650" y="353" type="curve"/>
+			<point x="650" y="228"/>
+			<point x="585" y="97"/>
+			<point x="490" y="0" type="curve"/>
+			<point x="905" y="0" type="line"/>
+			<point x="905" y="140" type="line"/>
+			<point x="700" y="140" type="line"/>
+		</contour>
+	</outline>
+</glyph>

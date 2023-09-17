@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveinferior" format="2">
+	<advance width="342"/>
+	<unicode hex="2085"/>
+	<outline>
+		<contour>
+			<point x="309" y="195" type="line"/>
+			<point x="309" y="310" type="line"/>
+			<point x="60" y="310" type="line"/>
+			<point x="55" y="94" type="line"/>
+			<point x="137" y="94"/>
+			<point x="155" y="88"/>
+			<point x="155" y="70" type="curve"/>
+			<point x="155" y="47"/>
+			<point x="121" y="34"/>
+			<point x="25" y="25" type="curve"/>
+			<point x="39" y="-100" type="line"/>
+			<point x="141" y="-97"/>
+			<point x="310" y="-59"/>
+			<point x="310" y="71" type="curve"/>
+			<point x="310" y="134"/>
+			<point x="238" y="167"/>
+			<point x="167" y="167" type="curve"/>
+			<point x="170" y="161" type="line"/>
+			<point x="176" y="308" type="line"/>
+			<point x="63" y="195" type="line"/>
+		</contour>
+	</outline>
+</glyph>

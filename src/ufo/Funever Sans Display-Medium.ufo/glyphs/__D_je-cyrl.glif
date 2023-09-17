@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__Dje-cyrl" format="2">
+	<advance width="847"/>
+	<outline>
+		<contour>
+			<point x="491" y="-10" type="line"/>
+			<point x="678" y="-10"/>
+			<point x="812" y="105"/>
+			<point x="812" y="234" type="curve"/>
+			<point x="812" y="353"/>
+			<point x="663" y="443"/>
+			<point x="361" y="443" type="curve"/>
+			<point x="361" y="358" type="line"/>
+			<point x="624" y="358"/>
+			<point x="702" y="300"/>
+			<point x="702" y="234" type="curve"/>
+			<point x="702" y="153"/>
+			<point x="611" y="75"/>
+			<point x="491" y="75" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onetenth" format="2">
+	<advance width="1300"/>
+	<unicode hex="2152"/>
+	<outline>
+		<component base="onesuperior" xOffset="40" yOffset="-100"/>
+		<component base="fraction" xOffset="220" yOffset="1"/>
+		<component base="oneinferior" xOffset="585" yOffset="100"/>
+		<component base="zeroinferior" xOffset="890" yOffset="100"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>onesuperior</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>oneinferior</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>zeroinferior</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

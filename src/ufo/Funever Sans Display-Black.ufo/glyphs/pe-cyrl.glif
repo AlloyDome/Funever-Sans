@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pe-cyrl" format="2">
+	<advance width="775"/>
+	<unicode hex="043F"/>
+	<outline>
+		<contour>
+			<point x="312" y="350" type="line"/>
+			<point x="433" y="350" type="line"/>
+			<point x="433" y="0" type="line"/>
+			<point x="633" y="0" type="line"/>
+			<point x="633" y="350" type="line"/>
+			<point x="710" y="350" type="line"/>
+			<point x="710" y="500" type="line"/>
+			<point x="35" y="500" type="line"/>
+			<point x="35" y="350" type="line"/>
+			<point x="112" y="350" type="line"/>
+			<point x="112" y="0" type="line"/>
+			<point x="312" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

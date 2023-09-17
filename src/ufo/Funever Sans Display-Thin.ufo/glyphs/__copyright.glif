@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__copyright" format="2">
+	<advance width="820"/>
+	<outline>
+		<contour>
+			<point x="410" y="-15" type="curve"/>
+			<point x="624" y="-15"/>
+			<point x="785" y="145"/>
+			<point x="785" y="350" type="curve"/>
+			<point x="785" y="549"/>
+			<point x="630" y="715"/>
+			<point x="410" y="715" type="curve"/>
+			<point x="202" y="715"/>
+			<point x="35" y="560"/>
+			<point x="35" y="350" type="curve"/>
+			<point x="35" y="146"/>
+			<point x="196" y="-15"/>
+		</contour>
+		<contour>
+			<point x="410" y="5" type="curve"/>
+			<point x="211" y="5"/>
+			<point x="55" y="152"/>
+			<point x="55" y="350" type="curve"/>
+			<point x="55" y="548"/>
+			<point x="210" y="695"/>
+			<point x="410" y="695" type="curve"/>
+			<point x="609" y="695"/>
+			<point x="765" y="548"/>
+			<point x="765" y="350" type="curve"/>
+			<point x="765" y="152"/>
+			<point x="610" y="5"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>1,0.75,0.4,1</string>
+		</dict>
+	</lib>
+</glyph>

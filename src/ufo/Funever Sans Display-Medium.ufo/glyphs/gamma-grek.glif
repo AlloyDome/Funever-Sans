@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma-grek" format="2">
+	<advance width="633"/>
+	<unicode hex="03B3"/>
+	<outline>
+		<contour>
+			<point x="318" y="98" type="line"/>
+			<point x="137" y="508" type="line"/>
+			<point x="35" y="472" type="line"/>
+			<point x="316" y="-99" type="line"/>
+			<point x="317" y="-99" type="line"/>
+			<point x="598" y="472" type="line"/>
+			<point x="496" y="508" type="line"/>
+			<point x="315" y="98" type="line"/>
+		</contour>
+		<contour>
+			<point x="372" y="-230" type="line"/>
+			<point x="372" y="64" type="line"/>
+			<point x="262" y="64" type="line"/>
+			<point x="262" y="-230" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

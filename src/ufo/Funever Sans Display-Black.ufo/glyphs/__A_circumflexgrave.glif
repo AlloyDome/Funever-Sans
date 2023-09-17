@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__Acircumflexgrave" format="2">
+	<advance width="0"/>
+	<outline>
+		<component base="circumflexcomb" xOffset="-234"/>
+		<component base="gravecombsmall" xOffset="-369" yOffset="180"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

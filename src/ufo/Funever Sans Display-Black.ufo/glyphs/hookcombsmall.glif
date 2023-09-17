@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookcombsmall" format="2">
+	<advance width="0"/>
+	<outline>
+		<contour>
+			<point x="122" y="682" type="line"/>
+			<point x="196" y="682" type="line"/>
+			<point x="196" y="714" type="line"/>
+			<point x="150" y="691" type="line"/>
+			<point x="217" y="691"/>
+			<point x="263" y="715"/>
+			<point x="263" y="772" type="curve"/>
+			<point x="263" y="849"/>
+			<point x="145" y="876"/>
+			<point x="58" y="882" type="curve"/>
+			<point x="55" y="809" type="line"/>
+			<point x="127" y="804"/>
+			<point x="144" y="788"/>
+			<point x="144" y="768" type="curve"/>
+			<point x="144" y="752"/>
+			<point x="132" y="735"/>
+			<point x="122" y="735" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

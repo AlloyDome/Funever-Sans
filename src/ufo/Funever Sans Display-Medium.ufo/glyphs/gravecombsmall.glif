@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecombsmall" format="2">
+	<advance width="0"/>
+	<outline>
+		<contour>
+			<point x="212" y="599" type="line"/>
+			<point x="100" y="764" type="line"/>
+			<point x="36" y="709" type="line"/>
+			<point x="177" y="570" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

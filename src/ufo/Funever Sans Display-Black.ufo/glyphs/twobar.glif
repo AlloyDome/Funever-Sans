@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twobar" format="2">
+	<advance width="600"/>
+	<unicode hex="01BB"/>
+	<outline>
+		<component base="two"/>
+		<component base="__dcroat" xOffset="-100" yOffset="-290"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

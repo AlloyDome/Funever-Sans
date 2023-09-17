@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lamda-grek" format="2">
+	<advance width="692"/>
+	<unicode hex="03BB"/>
+	<outline>
+		<contour>
+			<point x="420" y="493" type="line"/>
+			<point x="273" y="564" type="line"/>
+			<point x="35" y="56" type="line"/>
+			<point x="222" y="-5" type="line"/>
+		</contour>
+		<contour>
+			<point x="349" y="741" type="line"/>
+			<point x="172" y="670" type="line"/>
+			<point x="247" y="506" type="line"/>
+			<point x="283" y="493" type="line"/>
+			<point x="480" y="-5" type="line"/>
+			<point x="657" y="56" type="line"/>
+			<point x="455" y="506" type="line"/>
+		</contour>
+	</outline>
+</glyph>

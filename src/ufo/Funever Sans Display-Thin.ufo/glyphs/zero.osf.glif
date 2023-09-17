@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.osf" format="2">
+	<advance width="550"/>
+	<outline>
+		<contour>
+			<point x="275" y="-10" type="curve"/>
+			<point x="411" y="-10"/>
+			<point x="508" y="119"/>
+			<point x="508" y="279" type="curve"/>
+			<point x="508" y="396"/>
+			<point x="416" y="510"/>
+			<point x="275" y="510" type="curve"/>
+			<point x="139" y="510"/>
+			<point x="43" y="381"/>
+			<point x="43" y="221" type="curve"/>
+			<point x="43" y="104"/>
+			<point x="134" y="-10"/>
+		</contour>
+		<contour>
+			<point x="275" y="10" type="curve"/>
+			<point x="146" y="10"/>
+			<point x="63" y="115"/>
+			<point x="63" y="223" type="curve"/>
+			<point x="63" y="371"/>
+			<point x="151" y="490"/>
+			<point x="275" y="490" type="curve"/>
+			<point x="404" y="490"/>
+			<point x="488" y="385"/>
+			<point x="488" y="277" type="curve"/>
+			<point x="488" y="129"/>
+			<point x="399" y="10"/>
+		</contour>
+	</outline>
+</glyph>

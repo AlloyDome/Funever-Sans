@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__sterling" format="2">
+	<advance width="406"/>
+	<outline>
+		<contour>
+			<point x="371" y="20" type="line"/>
+			<point x="35" y="20" type="line"/>
+			<point x="35" y="0" type="line"/>
+			<point x="371" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="42" y="0" type="line"/>
+			<point x="128" y="32"/>
+			<point x="180" y="102"/>
+			<point x="180" y="239" type="curve"/>
+			<point x="180" y="329" type="line"/>
+			<point x="160" y="329" type="line"/>
+			<point x="160" y="239" type="line"/>
+			<point x="160" y="110"/>
+			<point x="111" y="47"/>
+			<point x="35" y="20" type="curve"/>
+		</contour>
+		<contour>
+			<point x="351" y="740" type="line"/>
+			<point x="212" y="712"/>
+			<point x="160" y="639"/>
+			<point x="160" y="467" type="curve"/>
+			<point x="160" y="329" type="line"/>
+			<point x="180" y="329" type="line"/>
+			<point x="180" y="467" type="line"/>
+			<point x="180" y="631"/>
+			<point x="230" y="694"/>
+			<point x="355" y="720" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oopen" format="2">
+	<advance width="628"/>
+	<unicode hex="0186"/>
+	<outline>
+		<contour>
+			<point x="65" y="710" type="curve"/>
+			<point x="65" y="625" type="line"/>
+			<point x="287" y="625"/>
+			<point x="483" y="515"/>
+			<point x="483" y="327" type="curve"/>
+			<point x="483" y="169"/>
+			<point x="340" y="75"/>
+			<point x="237" y="75" type="curve"/>
+			<point x="180" y="75"/>
+			<point x="100" y="82"/>
+			<point x="52" y="100" type="curve"/>
+			<point x="35" y="16" type="line"/>
+			<point x="94" y="-4"/>
+			<point x="159" y="-10"/>
+			<point x="250" y="-10" type="curve"/>
+			<point x="399" y="-10"/>
+			<point x="593" y="120"/>
+			<point x="593" y="327" type="curve"/>
+			<point x="593" y="565"/>
+			<point x="380" y="710"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
+		</dict>
+	</lib>
+</glyph>

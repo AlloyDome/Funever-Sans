@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondialytika-grek" format="2">
+	<advance width="610"/>
+	<unicode hex="03CB"/>
+	<outline>
+		<component base="usmallcapital"/>
+		<component base="dieresiscomb" xOffset="90"/>
+	</outline>
+</glyph>
