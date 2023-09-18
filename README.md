@@ -9,6 +9,6 @@ See here: [preview](https://github.com/AlloyDome/Funever-Sans/tree/main/preview)
 OFL-1.1 license.
 
 ## Sample
-<img src="./doc/FESanssample.2.png">
-<img src="./doc/FESanssample.4.png">
-<img src="./doc/FESanssample.6.png">
+<img src="./doc/sample8.webp">
+<img src="./doc/sample9.webp">
+<img src="./doc/sample10.webp">
